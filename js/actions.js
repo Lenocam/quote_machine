@@ -22,7 +22,7 @@ $(document).ready(function() {
       html += "<div class=quoteBox>";
       html += "<div class=quote>" + currentQuote + "</div><br>";
       html += "<div class=quoteAuthor>" + currentAuthor + "</div><br>";
-      html += "<div class=quoteCat><strong>Category:</strong>: " + currentCat + "</div><br>";
+      html += "<div class=quoteCat><strong>Category:</strong> " + currentCat + "</div><br>";
       html += "</div><br>";
       //tell html var where and how to opened using html jsquery method
 
